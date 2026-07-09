@@ -444,7 +444,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 2,
                             "alternateSelectMode": 1,
-                            "alternateItemsChance": 0.5,
+                            "alternateItemsChance": 0.25,
                             "alternateItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon",
