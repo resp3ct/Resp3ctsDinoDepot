@@ -447,12 +447,6 @@
                             "alternateItemsChance": 0.5,
                             "alternateItems": [
                                 {
-                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower",
-                                    "quantityPerItem": 2,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
-                                },
-                                {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon",
                                     "quantityPerItem": 2,
                                     "maxQuantityPerCycle": 0,
