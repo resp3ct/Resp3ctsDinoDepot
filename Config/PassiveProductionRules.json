@@ -411,11 +411,11 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900,
+                    "intervalSeconds": 3600,
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt",
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 1,
@@ -435,7 +435,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 600,
+                    "intervalSeconds": 1800,
                     "itemSelectMode": 1,
                     "items": [
                         {
@@ -466,7 +466,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900,
+                    "intervalSeconds": 1800,
                     "itemSelectMode": 0,
                     "items": [
                         {
